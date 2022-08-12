@@ -1,2 +1,2 @@
 # argocd-test-pubrepo
-Learning Argocd - testing GitHun Manifests
+Learning Argocd - testing GitHub Manifests
