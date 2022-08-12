@@ -1,2 +1,5 @@
 # argocd-test-pubrepo
-Learning Argocd - testing GitHub Manifests
+
+Argocd Training
+
+Testing GitHub Manifests for Kubernetes deployments.
